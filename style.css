@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&family=Grenze+Gotisch:wght@100..900&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Give You Glory", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 3px solid #5eff95;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.row{
+  margin: 10px 10px;
+}
+
+.row input{
+  width: 305px;
+  font-size: 23px;
+  margin: 0px;
+  padding: 10px 0px;
+  border: 3px solid #5eff95;
+  border-radius: 6px;
+}
+.button2{
+  width: 145px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 3px solid #5eff95;
+  border-radius: 5px;
+  cursor: pointer;
+}
