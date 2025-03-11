@@ -1,0 +1,20 @@
+
+.text-format {
+  text-align: center;
+  color: black;
+  text-decoration: underline #ffd700;
+}
+.text-format2 {
+  text-align: center;
+  color: black;
+  text-decoration: underline #5eff95;
+}
+.bg-black{
+  background: black;
+}
+.m-w-30{
+  max-width: 62vw;
+}
+.mx-auto{
+  margin: auto;
+}
